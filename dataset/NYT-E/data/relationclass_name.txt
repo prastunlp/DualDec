@@ -1,0 +1,24 @@
+people person ethnicity	
+people person profession	
+business company founders	
+business company shareholder major of	
+sports team location	
+people person place lived	
+people person place of birth	
+business person company	
+business company advisors	
+people person children	
+people ethnicity geographic distribution	
+business company place founded	
+sports team location teams	
+business company industry	
+location country capital	
+location contains	
+location neighborhood of	
+location administrative division country	
+people ethnicity	
+people person nationality	
+business company major shareholders	
+people person religion	
+people deceased person place of death	
+location country administrative divisions	

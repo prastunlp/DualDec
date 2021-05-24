@@ -1,0 +1,171 @@
+1st runway Length Feet	
+1st runway Length Metre	
+1st runway Number	
+1st runway Surface Type	
+3rd runway Length Feet	
+4th runway Length Feet	
+5th runway Number	
+EISSN number	
+LCCN number	
+OCLC number	
+Academic Discipline	
+Academic Staff Size	
+Administrative Arrondissement	
+Administrative County	
+affiliation	
+affiliations	
+Aircraft Fighter	
+Aircraft Helicopter	
+Alma Mater	
+anthem	
+architect	
+Architectural Style	
+Area Code	
+Attack Aircraft	
+author	
+award	
+awards	
+backup pilot	
+battles	
+Bed Count	
+bird	
+Birth Place	
+Broadcasted By	
+Building Start Date	
+Building Type	
+capital	
+category	
+chairman	
+champions	
+chancellor	
+chief	
+child	
+city	
+City Served	
+class	
+club	
+commander	
+compete in	
+Completion Date	
+country	
+County Seat	
+creator	
+Creator Of Dish	
+Crew Members	
+currency	
+Current Tenants	
+dean	
+Death Place	
+Dedicated To	
+demonym	
+developer	
+Dish Variation	
+district	
+division	
+Doctoral Advisor	
+editor	
+Elevation Above The Sea Level	
+Elevation Above The Sea Level in feet	
+Elevation Above The Sea Level in metres	
+established	
+Ethnic Group	
+Ethnic Groups	
+family	
+First Publication Year	
+Floor Count	
+Followed By	
+fossil	
+Foundation Place	
+Founded By	
+founder	
+gemstone	
+genre	
+genus	
+Governing Body	
+Government Type	
+ground	
+has to its north	
+has to its northeast	
+has to its northwest	
+has to its southeast	
+has to its southwest	
+has to its west	
+headquarter	
+headquarters	
+hometown	
+Hub Airport	
+Influenced By	
+ingredient	
+Is Part Of	
+jurisdiction	
+Key Person	
+language	
+languages	
+Largest City	
+leader	
+Leader Name	
+Leader Party	
+Leader Title	
+league	
+Literary Genre	
+location	
+Location City	
+Main Ingredients	
+manager	
+mayor	
+Media Type	
+municipality	
+nationality	
+Nearest City	
+Neighboring Municipality	
+nickname	
+Notable Work	
+Number Of Members	
+Number Of Postgraduate Students	
+Number Of Rooms	
+Number Of Students	
+Number Of Undergraduate Students	
+occupation	
+Official Language	
+Operating Organisation	
+operator	
+order	
+Outlook Ranking	
+owner	
+Owning Organisation	
+Parent Company	
+part	
+Parts Type	
+Patron Saint	
+Place Of Birth	
+Population Total	
+Postal Code	
+Preceded By	
+president	
+publisher	
+region	
+Region Served	
+religion	
+representative	
+residence	
+river	
+Runway Length	
+season	
+senators	
+served as Chief of the Astronaut Office in	
+Significant Building	
+Significant Project	
+Spoken In	
+Sports Governing Body	
+Sports Offered	
+starring	
+state	
+tenant	
+title	
+Transport Aircraft	
+voice	
+was a crew member of	
+was given the Technical Campus status by	
+was selected by NASA	
+year	
+Year Of Construction	
