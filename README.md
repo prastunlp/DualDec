@@ -1,5 +1,5 @@
 ##  Effective Cascade Dual-Decoder Model for Joint Entity and RelationExtraction
-  Effective Cascade Dual-Decoder Model for Joint Entity and RelationExtraction. (Findings of ACL 2021 [PDF](https://github.com/) )
+  Effective Cascade Dual-Decoder Model for Joint Entity and RelationExtraction. [submitted]
 
 ## Requirements
 All experiments are conducted with an NVDIA GeForce RTX 2080 Ti. 
