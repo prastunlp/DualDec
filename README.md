@@ -30,6 +30,3 @@ The main requirements are:
 ## Related Repo
 
 Codes are adapted from the repositories of  [Joint Extraction of Entities and Relations Based on a Novel Decomposition](https://github.com/yubowen-ph/JointER) and [A Novel Cascade Binary Tagging Framework for Relational Triple Extraction](https://github.com/weizhepei/CasRel).
-
-## Remark
-This work experiment was completed in December 2020. We first submitted in ACL, which was accepted by Findings, and transferred to TKDE in July 2021, which was rejected in December 2021.
